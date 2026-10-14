@@ -1,0 +1,6 @@
+@ERS_Intergration_HostAddress = http://localhost:5217
+
+GET {{ERS_Intergration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
